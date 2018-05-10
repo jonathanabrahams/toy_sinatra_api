@@ -39,4 +39,10 @@ This file holds the ```gems``` required for the application. Use ```bundle insta
 Rakefile is where custom application tasks are defined. Use ```rake -T``` to see all tasks.
 
 
+# Setup
+* Initialise the ruby environment ```rbenv local 2.5.0```.
+* Install ```bundle``` using ```gem install bundle```
+* Initialise ```Gemfile``` using ```bundle init```
+* Add sinatra using ```bundle add sinatra```
+
 [1]: Domain specific language
