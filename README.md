@@ -45,4 +45,7 @@ Rakefile is where custom application tasks are defined. Use ```rake -T``` to see
 * Initialise ```Gemfile``` using ```bundle init```
 * Add sinatra using ```bundle add sinatra```
 
+# Test
+Add ```helloworld.rb``` and run ```ruby helloworld.rb```
+
 [1]: Domain specific language
